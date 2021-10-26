@@ -30,7 +30,7 @@ header {
 
     display: flex;
     height: 105px;
-    background: rgba(56, 57, 61, 0.81);
+    background: rgba(0, 0, 0, 0.75);
     width: 100%;
     z-index: 12;
     position: fixed;
