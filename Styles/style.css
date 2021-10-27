@@ -23,7 +23,7 @@ body {
 .wrapper {
 
     width: 1170px;
-    margin: 0 auto;
+    margin: auto;
 
 }
 header {
@@ -51,8 +51,8 @@ header {
 
 nav {
 
-    float: center;
-    line-height: 100px;
+    float: left;
+    line-height: 105px;
 
 }
 
@@ -60,17 +60,17 @@ nav a {
 
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    letter-spacing: 2px;
-    font-size: 20px;
+    letter-spacing: 1px;
+    font-size: 18px;
     margin: 0 10px;
-    color: #fff;
+    color: #ffff;
     transition: all 0.3s ease 0s
 
 }
 
 nav a:hover {
 
-    color: #646464
+    color: #8c8c8c
 
 }
 
@@ -78,14 +78,14 @@ button {
 
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 17px;
     color: #edf0f1;
     text-decoration: none;
     margin: 0 10px;
     margin-top: 35px;
     margin-right: 75px;
     padding: 11px 20px;
-    background-color: rgba(0,136,369,1);
+    background-color: rgba(0, 136, 369, 1);
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -94,6 +94,6 @@ button {
 }
 button:hover {
 
-    background-color: rgba(4, 109, 169, 0.8);
+    background-color: rgba(0, 91, 209, 0.8);
 
 }
